@@ -61,7 +61,7 @@ Using Azure’s data processing capabilities, the project delivers real-time ins
   - `logging`: To track and manage errors, enabling robust debugging and maintenance.
   - `warnings`: For handling and filtering warnings in code execution.
 
-
+---
 
 ## Sample Results
 
@@ -71,6 +71,13 @@ Using Azure’s data processing capabilities, the project delivers real-time ins
 
 ---
 
-![Detailed Analysis Graph 2](https://github.com/Mohamedzonkol/Business-Analysis-System/blob/main/Result/Analysis/Pasted%20image%20.png)
+![Detailed Analysis Graph 1](https://github.com/Mohamedzonkol/Business-Analysis-System/blob/main/Result/Analysis/Pasted%20image%20.png)
 
-![Detailed Analysis Graph 1](https://github.com/Mohamedzonkol/Business-Analysis-System/blob/main/Result/Analysis/Pasted%20image%20(2).png)
+![Detailed Analysis Graph 2](https://github.com/Mohamedzonkol/Business-Analysis-System/blob/main/Result/Analysis/Pasted%20image%20(2).png)
+
+---
+## Project Output Files
+
+The outputs, including PDF reports and analysis images, are available in the repository for review and download.
+
+- [View PDF in GitHub Repository](https://github.com/Mohamedzonkol/Business-Analysis-System/tree/main/Result/Pdf)
