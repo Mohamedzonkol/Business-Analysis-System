@@ -22,8 +22,8 @@ import logging
 import os
 from typing import Optional, Union
 import warnings
- from dotenv import load_dotenv
-
+from dotenv import load_dotenv
+from config import AZURE_ENDPOINT, API_KEY, MODEL_NAME
 
 logging.basicConfig(
     level=logging.INFO,
@@ -307,9 +307,9 @@ async def main():
     try:
         analytics = BusinessAnalytics()
 
-        azure_endpoint = "https://20812-m3elzq48-australiaeast.openai.azure.com/openai/deployments/gpt-4/chat/completions?api-version=2024-08-01-preview/"
-        api_key = "3RpEWhxq4STdlhD4tuuPstRd7sZxIJEcMF45yhMcdSQGS0y8yjP3JQQJ99AKACL93NaXJ3w3AAABACOGqbKm"
-        model_name = "gpt-4"
+        azure_endpoint = AZURE_ENDPOINT
+        api_key = API_KEY
+        model_name = MODEL_NAME
 
         try:
             model_client = AzureOpenAIChatCompletionClient(
