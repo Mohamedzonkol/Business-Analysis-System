@@ -43,6 +43,31 @@ Using Azure’s data processing capabilities, the project delivers real-time ins
 
 - **Azure AI Platform**: For deploying and managing the AI models and ensuring the application’s scalability and reliability.
 - **GPT-4**: The latest language model by OpenAI, enabling natural and intuitive AI interactions.
+- **Python Asyncio**: For managing asynchronous tasks, enhancing the application’s efficiency by handling multiple processes concurrently.
+- **Data Handling and Transformation**:
+  - `Pandas`: For data manipulation, enabling efficient handling of structured data.
+  - `NumPy`: Used for numerical computations and array manipulation.
+- **Visualization**:
+  - `Matplotlib`: A fundamental library for creating static, animated, and interactive visualizations.
+  - `Seaborn`: Built on Matplotlib, it provides high-level interface for attractive statistical graphics.
+- **Finance API**:
+  - `yfinance`: Fetches historical market data for stock analysis, aiding in predictive modeling and trend analysis.
+- **Machine Learning**:
+  - `sklearn.preprocessing.MinMaxScaler`: For scaling features to a specific range, essential in data normalization.
+  - `sklearn.linear_model.LinearRegression`: Used to create predictive models, providing insights based on historical data.
+- **PDF Generation**:
+  - `FPDF`: Generates PDF reports, allowing users to save and share results in a professional format.
+- **Email Notifications**:
+  - `smtplib`, `MIMEText`, `MIMEMultipart`, `MIMEApplication`: Used to automate email notifications, attaching generated reports and sending them to designated recipients.
+- **Environment Configuration**:
+  - `dotenv`: Loads environment variables from `.env` file, keeping sensitive information secure.
+  - **Custom Configuration**: `config` file imports (e.g., `AZURE_ENDPOINT`, `API_KEY`, `MODEL_NAME`) to access API keys and endpoints securely.
+- **Agent-Based Communication**:
+  - `autogen_agentchat.agents.AssistantAgent`, `autogen_agentchat.task.Console`, `autogen_agentchat.task.TextMentionTermination`, `autogen_agentchat.teams.RoundRobinGroupChat`: Facilitate AI-driven group chat features, enhancing collaboration and communication through AI.
+
+- **Logging and Error Handling**:
+  - `logging`: To track and manage errors, enabling robust debugging and maintenance.
+  - `warnings`: For handling and filtering warnings in code execution.
 
 
 
