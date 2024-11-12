@@ -65,7 +65,9 @@ Using Azure’s data processing capabilities, the project delivers real-time ins
 
 ## Sample Results
 
-![Sample Image 1](path/to/image1.png)
+![Sample Image 1](https://github.com/Mohamedzonkol/Business-Analysis-System/blob/main/Result/Output/Pasted%20image.png)
+![Sample Image 1](https://github.com/Mohamedzonkol/Business-Analysis-System/blob/main/Result/Output/Pasted%20image%20(3).png)
+![Sample Image 1](https://github.com/Mohamedzonkol/Business-Analysis-System/blob/main/Result/Output/Pasted%20image%20(2).png)
 
 Description of the image and what it demonstrates about the project.
 
