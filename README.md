@@ -30,8 +30,8 @@ A user-friendly interface that [describe the interface's attributes, such as int
 
 ### Real-Time Insights and Analytics
 Using Azure’s data processing capabilities, the project delivers real-time insights and visualizations, enabling [describe what insights are available and their relevance to the project, e.g., user behavior tracking, content engagement metrics, etc.].
-### [Other Feature ]
 
+### Other Feature 
 - **Sales and Market Data Analysis**: Retrieve sales data and stock market information.
 - **Predictive Analytics**: Forecast future sales using linear regression.
 - **Data Visualization**: Generate revenue and profit charts for business insights.
