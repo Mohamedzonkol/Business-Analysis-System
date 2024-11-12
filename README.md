@@ -18,10 +18,10 @@ The Business Analytics System is designed to gather sales and market data, make 
 This project takes advantage of Azure’s AI suite, ensuring scalable, secure, and high-performance AI functionalities. Through Azure, the system supports efficient data handling, real-time processing, and advanced analytics, setting the groundwork for sophisticated AI workflows.
 
 ### GPT-4 for Natural Language Processing
-Powered by GPT-4, this application offers [specific feature enabled by GPT-4, like contextual understanding, intelligent content generation, interactive Q&A, etc.]. This model enhances the user experience by providing responses that are not only accurate but also contextually appropriate and insightful.
+Powered by GPT-4,This model enhances the user experience by providing responses that are not only accurate but also contextually appropriate and insightful.
 
 ### Real-Time Insights and Analytics
-Using Azure’s data processing capabilities, the project delivers real-time insights and visualizations, enabling [describe what insights are available and their relevance to the project, e.g., user behavior tracking, content engagement metrics, etc.].
+Using Azure’s data processing capabilities, the project delivers real-time insights and visualizations.
 
 ### Other Feature 
 - **Sales and Market Data Analysis**: Retrieve sales data and stock market information.
