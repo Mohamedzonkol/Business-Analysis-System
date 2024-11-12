@@ -30,9 +30,26 @@ A user-friendly interface that [describe the interface's attributes, such as int
 
 ### Real-Time Insights and Analytics
 Using Azure’s data processing capabilities, the project delivers real-time insights and visualizations, enabling [describe what insights are available and their relevance to the project, e.g., user behavior tracking, content engagement metrics, etc.].
+### [Other Feature ]
 
 - **Sales and Market Data Analysis**: Retrieve sales data and stock market information.
 - **Predictive Analytics**: Forecast future sales using linear regression.
 - **Data Visualization**: Generate revenue and profit charts for business insights.
 - **Automated Reporting**: Generate PDF reports with visualizations.
 - **Email Notification**: Send reports directly to specified recipients.
+
+
+## Technologies Used
+
+- **Azure AI Platform**: For deploying and managing the AI models and ensuring the application’s scalability and reliability.
+- **GPT-4**: The latest language model by OpenAI, enabling natural and intuitive AI interactions.
+
+
+
+## Sample Results
+
+![Sample Image 1](path/to/image1.png)
+
+Description of the image and what it demonstrates about the project.
+
+![Sample Image 2](path/to/image2.png)
