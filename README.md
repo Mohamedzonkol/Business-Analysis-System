@@ -25,9 +25,6 @@ This project takes advantage of Azure’s AI suite, ensuring scalable, secure, a
 ### GPT-4 for Natural Language Processing
 Powered by GPT-4, this application offers [specific feature enabled by GPT-4, like contextual understanding, intelligent content generation, interactive Q&A, etc.]. This model enhances the user experience by providing responses that are not only accurate but also contextually appropriate and insightful.
 
-### Seamless User Interface
-A user-friendly interface that [describe the interface's attributes, such as interactivity, ease of navigation, responsiveness, etc.]. This makes it easy for users to interact with the AI model and view results in real time.
-
 ### Real-Time Insights and Analytics
 Using Azure’s data processing capabilities, the project delivers real-time insights and visualizations, enabling [describe what insights are available and their relevance to the project, e.g., user behavior tracking, content engagement metrics, etc.].
 
