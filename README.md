@@ -5,13 +5,8 @@ This project showcases the power of Azure AI integrated with GPT-4 to deliver an
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
-- [Environment Variables](#environment-variables)
-- [Modules](#modules)
-- [Logging](#logging)
-- [Contributing](#contributing)
-- [License](#license)
+- [Technologies Used](#technologies-used)
+- [Sample Results](#sample-results)
 
 ---
 
