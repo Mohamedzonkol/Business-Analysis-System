@@ -72,7 +72,8 @@ Using Azure’s data processing capabilities, the project delivers real-time ins
 ---
 ![Detailed Analysis Graph ](https://github.com/Mohamedzonkol/Business-Analysis-System/blob/main/Result/Analysis/Pasted%20image.png)
 
-![Detailed Analysis Graph 2](https://github.com/Mohamedzonkol/Business-Analysis-System/blob/main/Result/Analysis/Pasted%%20(2).png)
+
+![Detailed Analysis Graph 2](https://github.com/Mohamedzonkol/Business-Analysis-System/blob/main/Result/Analysis/Pasted%20image%20(2).png)
 
 ---
 ## Project Output Files
